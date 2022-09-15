@@ -17,6 +17,7 @@ main {
     display: flex;
     flex-direction: column;
     width: 920px;
+    gap: 12px;
 }
 
 .authors {
